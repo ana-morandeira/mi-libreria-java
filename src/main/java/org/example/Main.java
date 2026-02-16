@@ -27,6 +27,6 @@ public class Main {
 
         System.out.println("-------Datos modificados--------");
         System.out.println("Nuevo Título: " + book5.getTitle());
-        System.out.println("Nuevo Precio: " + book5.getPrice() + "€")
+        System.out.println("Nuevo Precio: " + book5.getPrice() + "€");
     }
 }
